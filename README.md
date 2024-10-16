@@ -18,3 +18,17 @@ Program B will launch Program A as a separate process, provided as an argument. 
 - Send the Shutdown command to Program A to terminate it gracefully.
 - Sort the list of retrieved random numbers and print the sorted list to the console.
 - Calculate and print the median and average of the numbers.
+
+## Quick Start
+
+### Prerequisites
+
+- Python 3.x.x or higher (ensure Python 3 is installed and accessible via `python3` command)
+
+### Run program
+
+Under project root directory, execute the following command.
+
+```bash
+python3 program_b.py
+```
